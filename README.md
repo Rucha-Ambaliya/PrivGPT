@@ -6,7 +6,7 @@ A clean, dynamic chatbot UI built with Streamlit that lets you chat with locally
 ---
 
 ## 🎥 Demo
-- https://ollama.com/download
+- https://www.linkedin.com/posts/rucha-ambaliya_ollama-localllm-ai-activity-7349055595909476352-E2tp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETvgdYBJGROpCNQx4F7pl__P-_RXkiFE_k
 
 ## 🚀 How to Run
 
